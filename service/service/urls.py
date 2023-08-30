@@ -28,5 +28,5 @@ router.register(r'api/subscriptions', SubscriptionView)
 
 urlpatterns += router.urls
 
-Продолжение тут
-https://www.youtube.com/watch?v=qy5TQDmW-K4
+#Продолжение тут
+#https://www.youtube.com/watch?v=qy5TQDmW-K4
